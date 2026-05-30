@@ -23,7 +23,7 @@ Defence-grade AI you can actually run, and the attacks that prove it holds. Same
 | **[drifter](https://github.com/Divyonic/drifter)** | Offline, real-time LLM context-drift monitor (flagship). | Python · PySide6 |
 | **[counter-uav-adversarial-radar](https://github.com/Divyonic/counter-uav-adversarial-radar)** | FMCW radar + CNN/LSTM counter-UAV classifier and adversarial-robustness study. | Python |
 | **[jarvis](https://github.com/Divyonic/jarvis)** | AI task agent with ntfy push notifications. | Python |
-| **[synthetic-virality](https://github.com/Divyonic/synthetic-virality)** | Adversarial study of recommender amplification on Reels and Shorts. | Python |
+| **[synthetic-virality](https://github.com/Divyonic/synthetic-virality)** | Defence-grade psychological-warfare research: how synthetic engagement weaponizes recommender amplification, and how to detect it. | Python |
 
 **[drifter](https://github.com/Divyonic/drifter)** is the most polished: a native desktop app that watches an LLM conversation drift from its goal, scores every turn, graphs it live with an animated gauge and chart, and writes a paste-ready prompt to re-align. Fully offline, with integrations for Claude, Gemini, and OpenAI, plus a mode that monitors a live Claude Code terminal session.
 

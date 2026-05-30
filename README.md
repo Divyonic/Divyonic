@@ -52,3 +52,5 @@ Founder of **Drexon Industries** - on-device AI that runs without a cloud depend
 ### Reach me
 
 [divyakumarpatel20@gmail.com](mailto:divyakumarpatel20@gmail.com) · [@Divyonic](https://github.com/Divyonic)
+
+<!-- profile -->
